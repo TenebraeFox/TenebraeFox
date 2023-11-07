@@ -8,7 +8,7 @@
 ## Контакты
 <a href="https://discord.gg/yBY2WvA5t7">![DiscordServer](https://img.shields.io/discord/1018420528916217856?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
 </a> ![Discord](https://img.shields.io/badge/Tenebrae%236433-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-[Telegram](https://t.me/TenebraeDark)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/TenebraeDark)
 
 -------------------
 
