@@ -1,13 +1,14 @@
 <div align="center">
   
 ## Обо мне
-Здравствуйте, я разработчик, работаю над несколькими проектами с открытым исходным кодом, в основном с использованием Node.JS. Я создал пару приложений для ботов Discord
+Я работаю над несколькими проектами с открытым исходным кодом, в основном с использованием Node.JS или Python.
 
 -------------------
 
 ## Контакты
 <a href="https://discord.gg/yBY2WvA5t7">![DiscordServer](https://img.shields.io/discord/1018420528916217856?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
 </a> ![Discord](https://img.shields.io/badge/Tenebrae%236433-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+[Telegram](https://t.me/TenebraeDark)
 
 -------------------
 
@@ -16,8 +17,8 @@
   
 -------------------
   
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=ZodiackiIler&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Tenebrae github stats](https://github-readme-stats.vercel.app/api?username=ZodiackiIler&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=ZodiackiIler&theme=radical&include_all_commits=true&count_private=true)
+![Tenebrae github streak](https://github-readme-streak-stats.herokuapp.com/?user=ZodiackiIler&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
