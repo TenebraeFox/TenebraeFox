@@ -18,6 +18,4 @@
 ![Tenebrae github stats](https://github-readme-stats.vercel.app/api?username=TenebraeFox&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![Tenebrae github streak](https://github-readme-streak-stats.herokuapp.com/?user=TenebraeFox&theme=radical&include_all_commits=true&count_private=true)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TenebraeFox&layout=compact)](https://github.com/TenebraeFox/github-readme-stats)
  <div>
